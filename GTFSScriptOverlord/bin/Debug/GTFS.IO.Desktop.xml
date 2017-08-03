@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GTFS.IO.Desktop</name>
+    </assembly>
+    <members>
+        <member name="T:GTFS.IO.Extensions">
+            <summary>
+            Extensions methods for convenient reading/writing feeds.
+            </summary>
+        </member>
+        <member name="M:GTFS.IO.Extensions.Read(GTFS.GTFSReader{GTFS.GTFSFeed},System.IO.DirectoryInfo)">
+            <summary>
+            Reads a fead from the given directory.
+            </summary>
+        </member>
+        <member name="M:GTFS.IO.Extensions.Read(GTFS.GTFSReader{GTFS.GTFSFeed},System.String)">
+            <summary>
+            Reads a fead from the given directory.
+            </summary>
+        </member>
+        <member name="M:GTFS.IO.Extensions.Read(System.IO.DirectoryInfo)">
+            <summary>
+            Reads a fead from the given directory.
+            </summary>
+        </member>
+        <member name="T:GTFS.IO.GTFSDirectorySource">
+            <summary>
+            Represents a list of GTFS source files all located in a given directory.
+            </summary>
+        </member>
+        <member name="F:GTFS.IO.GTFSDirectorySource._directory">
+            <summary>
+            Holds the directory.
+            </summary>
+        </member>
+        <member name="F:GTFS.IO.GTFSDirectorySource._customSeperator">
+            <summary>
+            Holds a custom seperator.
+            </summary>
+        </member>
+        <member name="F:GTFS.IO.GTFSDirectorySource._sourceFiles">
+            <summary>
+            Holds the source files.
+            </summary>
+        </member>
+        <member name="M:GTFS.IO.GTFSDirectorySource.#ctor(System.String)">
+            <summary>
+            Creates a new GTFS directory source.
+            </summary>
+            <param name="path">The path to the directory contain all GTFS-files.</param>
+        </member>
+        <member name="M:GTFS.IO.GTFSDirectorySource.#ctor(System.IO.DirectoryInfo)">
+            <summary>
+            Creates a new GTFS directory source.
+            </summary>
+            <param name="directory">The directory contain all GTFS-files.</param>
+        </member>
+        <member name="M:GTFS.IO.GTFSDirectorySource.#ctor(System.String,System.Char)">
+            <summary>
+            Creates a new GTFS directory source.
+            </summary>
+            <param name="path">The path to the directory contain all GTFS-files.</param>
+            <param name="seperator">A custom seperator.</param>
+        </member>
+        <member name="M:GTFS.IO.GTFSDirectorySource.#ctor(System.IO.DirectoryInfo,System.Char)">
+            <summary>
+            Creates a new GTFS directory source.
+            </summary>
+            <param name="directory">The directory contain all GTFS-files.</param>
+            <param name="seperator">A custom seperator.</param>
+        </member>
+        <member name="M:GTFS.IO.GTFSDirectorySource.BuildSource">
+            <summary>
+            Builds a list of source files;
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GTFS.IO.GTFSDirectorySource.GetEnumerator">
+            <summary>
+            Returns the enumerator for this IEnumerable.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GTFS.IO.GTFSDirectorySource.System#Collections#IEnumerable#GetEnumerator">
+            <summary>
+            Returns the enumerator for this IEnumerable.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GTFS.IO.GTFSDirectorySource.Dispose">
+            <summary>
+            Diposes of all native resources associated with this source.
+            </summary>
+        </member>
+        <member name="T:GTFS.IO.GTFSDirectoryTarget">
+            <summary>
+            Represents a GTFS directory target.
+            </summary>
+        </member>
+        <member name="F:GTFS.IO.GTFSDirectoryTarget._directory">
+            <summary>
+            Holds the directory info.
+            </summary>
+        </member>
+        <member name="F:GTFS.IO.GTFSDirectoryTarget._targets">
+            <summary>
+            Holds the target files.
+            </summary>
+        </member>
+        <member name="M:GTFS.IO.GTFSDirectoryTarget.#ctor(System.IO.DirectoryInfo)">
+            <summary>
+            Creates a new GTFS directory target.
+            </summary>
+            <param name="directory"></param>
+        </member>
+        <member name="P:GTFS.IO.GTFSDirectoryTarget.DirectoryPath">
+            <summary>
+            Returns the path of this directory.
+            </summary>
+        </member>
+        <member name="M:GTFS.IO.GTFSDirectoryTarget.BuildTargets">
+            <summary>
+            Builds the new target files.
+            </summary>
+        </member>
+        <member name="M:GTFS.IO.GTFSDirectoryTarget.OpenWrite(System.String,System.String)">
+            <summary>
+            Opens a file for writing.
+            </summary>
+            <param name="path"></param>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GTFS.IO.GTFSDirectoryTarget.GetEnumerator">
+            <summary>
+            Returns the enumerator.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GTFS.IO.GTFSDirectoryTarget.System#Collections#IEnumerable#GetEnumerator">
+            <summary>
+            Returns the enumerator.
+            </summary>
+        </member>
+    </members>
+</doc>

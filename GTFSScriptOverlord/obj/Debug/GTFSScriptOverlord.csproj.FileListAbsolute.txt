@@ -1,0 +1,145 @@
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Resources\black-dot.png
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Resources\Icon_end-journey.png
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Resources\Icon_error_break.png
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Resources\Icon_error_restart.png
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Resources\Icon_start-journey.png
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Resources\solid-tick-icon.png
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Resources\tick-icon.png
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Resources\white-dot.png
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Accord.dll.config
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFSScriptOverlord.exe.config
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFSScriptOverlord.exe
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFSScriptOverlord.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\AlgoaGTFS.exe
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\CaptureWinForms.exe
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\EntityFramework.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFS.DB.SQLite.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFS.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFS.IO.Desktop.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFS.IO.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\IntercapeGTFS.exe
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\System.Data.SQLite.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Snappy.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GPX.Importer.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Collector.Importer.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GMap.NET.Core.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\KeyholeTransitFeed.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Geocoding.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\OverpassSDK.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\RestSharp.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\SnappyVisualizer.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Writer.Domain.Model.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Writer.Domain.Services.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Writer.Domain.Interfaces.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\ExcelDataReader.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\ConsoleTables.Core.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\C5.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\SharpKml.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Wimt.ValueObjects.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\NodaTime.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Wimt.DomainDrivenArchitecture.Domain.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\WhereIsMyTransport.Interchange.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Writer.Infrastructure.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\System.IO.Compression.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\CsvHelper.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\WhereIsMyTransport.Interchange.ServiceBus.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\WhereIsMyTransport.Interchange.Types.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Google.Protobuf.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\TimeZoneMapper.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\WhereIsMyTransport.Interchange.Utility.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\WhereIsMyTransport.Protobuf.Tools.Dotnet.Shared.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\System.Reactive.Linq.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\MongoDB.Bson.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\MongoDB.Driver.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\System.Reactive.Core.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\System.Spatial.dll
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\CaptureWinForms.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\CaptureWinForms.exe.config
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFS.DB.SQLite.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFS.IO.Desktop.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFS.IO.Desktop.xml
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFS.IO.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFS.IO.xml
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFS.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\AlgoaGTFS.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\AlgoaGTFS.exe.config
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFSScriptToolbox.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\IntercapeGTFS.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\IntercapeGTFS.exe.config
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\EntityFramework.xml
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\System.Data.SQLite.xml
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Snappy.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GPX.Importer.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Collector.Importer.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\KeyholeTransitFeed.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\OverpassSDK.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\RestSharp.xml
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\SnappyVisualizer.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Writer.Domain.Model.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Writer.Domain.Services.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Writer.Domain.Interfaces.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\ExcelDataReader.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\SharpKml.xml
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Wimt.ValueObjects.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Wimt.DomainDrivenArchitecture.Domain.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\Writer.Infrastructure.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\obj\Debug\GTFSScriptOverlord.csprojResolveAssemblyReference.cache
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\obj\Debug\GTFSScriptOverlord.csproj.GTFSScriptOverlord.exe.config
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\obj\Debug\GTFSScriptOverlord.Mother.resources
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\obj\Debug\GTFSScriptOverlord.Preferences.PrefsEditor.resources
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\obj\Debug\GTFSScriptOverlord.Properties.Resources.resources
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\obj\Debug\GTFSScriptOverlord.Script_GUI_s.AlgoaGUI.resources
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\obj\Debug\GTFSScriptOverlord.Script_GUI_s.IntercapeGUI.resources
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\obj\Debug\GTFSScriptOverlord.csproj.GenerateResource.Cache
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\obj\Debug\GTFSScriptOverlord.exe
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\obj\Debug\GTFSScriptOverlord.pdb
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFSScriptToolbox.exe
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFSScriptToolbox.exe.config
+C:\Users\PeetJansevanVuuren\Documents\Git\Data\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFS.xml
+C:\Users\PeetJansevanVuuren\Documents\VS bug report\GTFSScriptOverlord\GTFSScriptOverlord\obj\Debug\GTFSScriptOverlord.csprojResolveAssemblyReference.cache
+C:\Users\PeetJansevanVuuren\Documents\VS bug report\GTFSScriptOverlord\GTFSScriptOverlord\obj\Debug\GTFSScriptOverlord.Properties.Resources.resources
+C:\Users\PeetJansevanVuuren\Documents\VS bug report\GTFSScriptOverlord\GTFSScriptOverlord\obj\Debug\GTFSScriptOverlord.Script_GUI_s.AlgoaGUI.resources
+C:\Users\PeetJansevanVuuren\Documents\VS bug report\GTFSScriptOverlord\GTFSScriptOverlord\obj\Debug\GTFSScriptOverlord.csproj.GenerateResource.Cache
+C:\Users\PeetJansevanVuuren\Documents\VS bug report\GTFSScriptOverlord\GTFSScriptOverlord\obj\Debug\GTFSScriptOverlord.exe
+C:\Users\PeetJansevanVuuren\Documents\VS bug report\GTFSScriptOverlord\GTFSScriptOverlord\obj\Debug\GTFSScriptOverlord.pdb
+C:\Users\PeetJansevanVuuren\Documents\VS bug report\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFSScriptOverlord.exe.config
+C:\Users\PeetJansevanVuuren\Documents\VS bug report\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFSScriptOverlord.exe
+C:\Users\PeetJansevanVuuren\Documents\VS bug report\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\GTFSScriptOverlord.pdb
+C:\Users\PeetJansevanVuuren\Documents\VS bug report\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\EntityFramework.dll
+C:\Users\PeetJansevanVuuren\Documents\VS bug report\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PeetJansevanVuuren\Documents\VS bug report\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\System.Data.SQLite.dll
+C:\Users\PeetJansevanVuuren\Documents\VS bug report\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\PeetJansevanVuuren\Documents\VS bug report\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\PeetJansevanVuuren\Documents\VS bug report\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\EntityFramework.xml
+C:\Users\PeetJansevanVuuren\Documents\VS bug report\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PeetJansevanVuuren\Documents\VS bug report\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\System.Data.SQLite.xml
+C:\Users\PeetJansevanVuuren\Documents\VS bug report\GTFSScriptOverlord\GTFSScriptOverlord\bin\Debug\System.Data.SQLite.dll.config
